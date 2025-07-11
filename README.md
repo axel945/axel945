@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Axel
 
 🎓 Estudiante de Ingeniería en Sistemas  
-📸 Apasionado por la fotografía y la tecnología.  
-🚀 “El futuro pertenece a quienes creen en la belleza de sus sueños.”
+📸 Fotógrafo de pasión, tech lover por elección.  
+🚀 “No sueñes tu vida, vive tu sueño.”
 
-¡Bienvenidos a mi perfil de GitHub!
+¡Bienvenido a mi perfil de GitHub!
